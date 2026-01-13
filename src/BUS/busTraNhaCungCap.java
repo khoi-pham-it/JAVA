@@ -9,7 +9,7 @@ import DTO.PhieuTraKho;
 import java.util.ArrayList;
 /**
  *
- * @author Dinh Tien
+ * @author K
  */
 public class busTraNhaCungCap {
     private static busTraNhaCungCap instance;
