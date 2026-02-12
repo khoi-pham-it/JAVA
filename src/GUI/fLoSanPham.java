@@ -120,11 +120,11 @@ public class fLoSanPham extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("siêu thị S.O.S");
+        jLabel2.setText("siêu thị tiện lợi");
 
         jLabel1.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("Phần mềm quản lý kho");
+        jLabel1.setText("Phần mềm quản lý");
 
         jPanel13.setBackground(new java.awt.Color(0, 153, 153));
         jPanel13.setAlignmentX(0.2F);
@@ -144,7 +144,6 @@ public class fLoSanPham extends javax.swing.JFrame {
             }
         });
 
-        jButtonTimKiem.setBackground(new java.awt.Color(255, 255, 255));
         jButtonTimKiem.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ImageIcon imgTimKiem = new ImageIcon(getClass().getResource("/icon/icons8-search.png"));
         ImageIcon ImgTimKiem = new ImageIcon(imgTimKiem.getImage().getScaledInstance(19, 19, Image.SCALE_SMOOTH));
@@ -156,7 +155,6 @@ public class fLoSanPham extends javax.swing.JFrame {
             }
         });
 
-        jButtonLamMoi.setBackground(new java.awt.Color(255, 255, 255));
         jButtonLamMoi.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ImageIcon imgLamMoi = new ImageIcon(getClass().getResource("/icon/icons8-synchronize-30.png"));
         ImageIcon ImgLamMoi = new ImageIcon(imgLamMoi.getImage().getScaledInstance(19, 19, Image.SCALE_SMOOTH));

@@ -111,11 +111,11 @@ public class fTonKho extends javax.swing.JFrame {
 
         jLabel3.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel3.setText("siêu thị S.O.S");
+        jLabel3.setText("siêu thị tiện lợi");
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("Phần mềm quản lý kho");
+        jLabel2.setText("Phần mềm quản lý ");
 
         jPanel2.setBackground(new java.awt.Color(0, 153, 153));
 

@@ -15,6 +15,49 @@
             <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DTO/ChiTietPhieuNhap.java</file>
             <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DTO/KhuVuc.java</file>
             <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DTO/KiemKePhieuNhap.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fHome.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fDangNhap.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fViewThongTinNhap.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/jCreateNHang.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fXuat_Kho.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fViewNhanVien.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fViewNhaCungCap.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fViewLoSanPham.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fTraHang_Ncc.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fTraHang_Kho.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fTraHangLoi.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fTonKho.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fThongTinLo_NhapHang.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fThongBaoHuy.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fThongBaoChuan.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fThongBao.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fThemSanPham.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fSuaThongTinSanPham.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fSanPham_BaoCao.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fSanPham.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fResetPass.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fPrintThongTinNhap.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fPrintPhieuXuat.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fPrintPhieuTra.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fNhapHang.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fNhanVien.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fNhacungcap.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fLoSanPham.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fKiemKe.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fKhuVuc.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fHoanThanh_NhapHang.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fDanhSach_NhapHang.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fCreate_PhieuXuat_sub.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fCreate_PhieuXuat.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fCreateTraHang.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fCreateSanPham.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fCreatePhieuTraHang.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fCreateNhaCungCap.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fCreateLoaiSanPham.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fCreateKhuVuc.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fChonSanPham_NhapHang.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fBaoCao.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fChiTietKiemKe.java</file>
         </group>
     </open-files>
 </project-private>

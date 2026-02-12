@@ -92,6 +92,8 @@ public class DateTimeNow {
     }
     public String getHomQua(String date)
     {
+        System.out.println("DATE RAW = [" + date + "]");
+        System.out.println("LENGTH = " + date.length());
         int nam = Integer.parseInt(date.substring(0, 4));
         //System.out.println(date.substring(0, 4));
         int thang = Integer.parseInt(date.substring(5, 7));
@@ -118,7 +120,7 @@ public class DateTimeNow {
                 ngay=30;
             
         }
-        String result=nam+"-"+thang+"-"+ngay;
+        String result = String.format("%04d-%02d-%02d", nam, thang, ngay);
         return result;
     }
     public String getThangTruoc(String thang)

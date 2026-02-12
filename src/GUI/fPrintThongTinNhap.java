@@ -123,7 +123,7 @@ public class fPrintThongTinNhap extends javax.swing.JFrame {
         jLabelsophieunhap.setText("Số: ");
 
         jLabel9.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
-        jLabel9.setText("SIÊU THỊ S.O.S");
+        jLabel9.setText("SIÊU THỊ TIỆN LỢI");
 
         jLabelnhanvien.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N
         jLabelnhanvien.setText("Nhân viên :");

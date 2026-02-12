@@ -109,11 +109,11 @@ public class fThemSanPham extends javax.swing.JFrame {
 
         jLabel7.setFont(new java.awt.Font("Times New Roman", 3, 18)); // NOI18N
         jLabel7.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel7.setText("Phần mềm quản lý kho");
+        jLabel7.setText("Phần mềm quản lý");
 
         jLabel8.setFont(new java.awt.Font("Times New Roman", 3, 18)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel8.setText("siêu thị S.O.S");
+        jLabel8.setText("siêu thị tiện lợi");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);

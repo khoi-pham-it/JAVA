@@ -154,7 +154,6 @@ public class fCreate_PhieuXuat extends javax.swing.JFrame {
         jLabel27.setForeground(new java.awt.Color(255, 255, 255));
         jLabel27.setText("Người phụ trách:");
 
-        jButtonLuu.setBackground(new java.awt.Color(255, 255, 255));
         jButtonLuu.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButtonLuu.setText("Lưu");
         jButtonLuu.addActionListener(new java.awt.event.ActionListener() {
@@ -163,7 +162,6 @@ public class fCreate_PhieuXuat extends javax.swing.JFrame {
             }
         });
 
-        jButtonThoat.setBackground(new java.awt.Color(255, 255, 255));
         jButtonThoat.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButtonThoat.setText("Thoát");
         jButtonThoat.addActionListener(new java.awt.event.ActionListener() {
@@ -213,7 +211,6 @@ public class fCreate_PhieuXuat extends javax.swing.JFrame {
         jTextFieldTenSanPham.setEditable(false);
         jTextFieldTenSanPham.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
 
-        jButtonChonSanPham.setBackground(new java.awt.Color(255, 255, 255));
         jButtonChonSanPham.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButtonChonSanPham.setText("Chọn sản phẩm");
         jButtonChonSanPham.setMaximumSize(new java.awt.Dimension(300, 300));
@@ -250,7 +247,7 @@ public class fCreate_PhieuXuat extends javax.swing.JFrame {
         jLabel10.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(255, 255, 255));
         jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel10.setText("Phiếu xuất kho siêu thị S.O.S");
+        jLabel10.setText("Phiếu xuất kho siêu thị tiện lợi");
 
         jLabel12.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(255, 255, 255));

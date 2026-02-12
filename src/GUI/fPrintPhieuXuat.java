@@ -150,7 +150,7 @@ public class fPrintPhieuXuat extends javax.swing.JFrame {
         jLabelnumber.setText("number");
 
         jLabel9.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
-        jLabel9.setText("SIÊU THỊ S.O.S");
+        jLabel9.setText("SIÊU THỊ TIỆN LỢI");
 
         javax.swing.GroupLayout jPanelHeaderLayout = new javax.swing.GroupLayout(jPanelHeader);
         jPanelHeader.setLayout(jPanelHeaderLayout);

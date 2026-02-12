@@ -158,11 +158,11 @@ public class fHome extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel1.setText("Phần mềm quản lý kho");
+        jLabel1.setText("Phần mềm quản lý ");
 
         jLabel2.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel2.setText("siêu thị S.O.S");
+        jLabel2.setText("siêu thị tiện lợi");
 
         jComboBoxNhanVien.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jComboBoxNhanVien.addActionListener(new java.awt.event.ActionListener() {
@@ -173,7 +173,6 @@ public class fHome extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(204, 204, 204));
 
-        jButtonXuatKhoUp.setBackground(new java.awt.Color(255, 255, 255));
         jButtonXuatKhoUp.setForeground(new java.awt.Color(255, 255, 255));
         jButtonXuatKhoUp.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/icons8-checkout.png"))); // NOI18N
         jButtonXuatKhoUp.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -191,7 +190,6 @@ public class fHome extends javax.swing.JFrame {
             }
         });
 
-        jButtonKiemKeUp.setBackground(new java.awt.Color(255, 255, 255));
         jButtonKiemKeUp.setForeground(new java.awt.Color(255, 255, 255));
         jButtonKiemKeUp.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/icons8-pos-terminal.png"))); // NOI18N
         jButtonKiemKeUp.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -212,7 +210,6 @@ public class fHome extends javax.swing.JFrame {
             }
         });
 
-        jButtonThongTinLo.setBackground(new java.awt.Color(255, 255, 255));
         jButtonThongTinLo.setForeground(new java.awt.Color(255, 255, 255));
         jButtonThongTinLo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/icons8-transaction-list-100.png"))); // NOI18N
         jButtonThongTinLo.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -233,7 +230,6 @@ public class fHome extends javax.swing.JFrame {
             }
         });
 
-        jButtonTraBaoCaoUp.setBackground(new java.awt.Color(255, 255, 255));
         jButtonTraBaoCaoUp.setForeground(new java.awt.Color(255, 255, 255));
         jButtonTraBaoCaoUp.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/icons8-report-card.png"))); // NOI18N
         jButtonTraBaoCaoUp.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -251,7 +247,6 @@ public class fHome extends javax.swing.JFrame {
             }
         });
 
-        jButtonTraNhaCungCapUp.setBackground(new java.awt.Color(255, 255, 255));
         jButtonTraNhaCungCapUp.setForeground(new java.awt.Color(255, 255, 255));
         jButtonTraNhaCungCapUp.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/icons8-export.png"))); // NOI18N
         jButtonTraNhaCungCapUp.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -272,7 +267,6 @@ public class fHome extends javax.swing.JFrame {
             }
         });
 
-        jButtonNhapHang.setBackground(new java.awt.Color(255, 255, 255));
         jButtonNhapHang.setForeground(new java.awt.Color(255, 255, 255));
         jButtonNhapHang.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icon/icons8-warehouse.png"))); // NOI18N
         jButtonNhapHang.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));

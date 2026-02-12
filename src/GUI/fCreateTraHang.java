@@ -130,7 +130,6 @@ public class fCreateTraHang extends javax.swing.JFrame {
         jLabel27.setForeground(new java.awt.Color(255, 255, 255));
         jLabel27.setText("Người phụ trách:");
 
-        jButtonLuu.setBackground(new java.awt.Color(255, 255, 255));
         jButtonLuu.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButtonLuu.setText("Lưu");
         jButtonLuu.addActionListener(new java.awt.event.ActionListener() {
@@ -203,7 +202,7 @@ public class fCreateTraHang extends javax.swing.JFrame {
         jLabel10.setFont(new java.awt.Font("Times New Roman", 3, 36)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(255, 255, 255));
         jLabel10.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel10.setText("Phiếu trả hàng siêu thị S.O.S");
+        jLabel10.setText("Phiếu trả hàng siêu thị tiện lợi");
 
         jLabel12.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(255, 255, 255));
@@ -301,7 +300,6 @@ public class fCreateTraHang extends javax.swing.JFrame {
         jLabel11.setForeground(new java.awt.Color(255, 255, 255));
         jLabel11.setText("THÔNG TIN PHIẾU TRẢ NHÀ CUNG CẤP");
 
-        jButtonChonSanPham.setBackground(new java.awt.Color(255, 255, 255));
         jButtonChonSanPham.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jButtonChonSanPham.setText("Chọn sản phẩm khác");
         jButtonChonSanPham.setMaximumSize(new java.awt.Dimension(300, 300));
