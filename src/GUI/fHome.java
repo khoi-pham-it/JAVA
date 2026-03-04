@@ -82,6 +82,11 @@ public class fHome extends javax.swing.JFrame {
             }
         }, 0, 5, TimeUnit.SECONDS);
         build();
+        // ===== Thêm chức năng lương =====
+jComboBoxConTrolNhanVien.removeAllItems();
+jComboBoxConTrolNhanVien.addItem("-- Nhân Viên --");
+jComboBoxConTrolNhanVien.addItem("- Danh sách -");
+jComboBoxConTrolNhanVien.addItem("- Quản lý lương -");
         
         //System.out.println("xong");
 //        new java.util.Timer().schedule( 
@@ -814,6 +819,10 @@ public class fHome extends javax.swing.JFrame {
             JFrame nv = new fNhanVien(id_nv);
             nv.setVisible(true);
         }
+        if ("- Quản lý lương -".equals(valueIn)) {
+            JFrame luong = new fLuong();
+            luong.setVisible(true);
+}
     }//GEN-LAST:event_jComboBoxConTrolNhanVienActionPerformed
 
     private void jComboBoxTonKhoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBoxTonKhoActionPerformed

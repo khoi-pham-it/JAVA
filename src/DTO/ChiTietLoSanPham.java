@@ -24,5 +24,4 @@ public class ChiTietLoSanPham {
         this.id_sp = id_sp;
     }
     
-    
 }

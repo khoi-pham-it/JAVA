@@ -58,6 +58,21 @@
             <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fChonSanPham_NhapHang.java</file>
             <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fBaoCao.java</file>
             <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fChiTietKiemKe.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GROUP/BaoCaoExcel.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GROUP/JPanelBaoCao.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DTO/Luong.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DAO/daoLuong.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DAO/daoLoaiSanPham.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DAO/daoNguonCungCap.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DAO/daoNhanVien.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DATABASE/DataTonKho.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DATABASE/DatabaseSeeder.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/BUS/busLuong.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/GUI/fLuong.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DTO/NhanVien.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DAO/daoXuatKho.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DAO/DataProvider.java</file>
+            <file>file:/C:/Users/nguye/QuanLyKhoSieuThi-master/JAVA/src/DAO/NhapKho.java</file>
         </group>
     </open-files>
 </project-private>
